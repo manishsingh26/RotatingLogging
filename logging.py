@@ -1,5 +1,6 @@
 
 import logging
+from logging.handlers import RotatingFileHandler
 
 def logger_executor(self):
     """
